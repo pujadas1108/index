@@ -1,0 +1,52 @@
+.card
+{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 90%;
+    border-radius: 5px;
+    /* padding-left: 20%;
+    margin-left: 20%;*/
+    margin: auto;
+}
+.card:hover
+{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+img
+{
+    border-radius: 5px 5px 0 0;
+}
+.containerp 
+{
+    padding: 2px 16px;
+}
+#h41:hover
+{
+    cursor: pointer;
+    text-align: center;
+}
+/*.main_div
+{
+    background-color: aqua;
+}*/
+h2
+{
+    background-color: tomato;
+    text-align: center;
+}
+footer
+{
+    background-color: black;
+    color: wheat;
+    text-align: center;
+}
+th
+{
+    padding-bottom: 10%;
+}
+h2:hover
+{
+    text-decoration: underline;
+    color: burlywood;
+    cursor: pointer;
+}

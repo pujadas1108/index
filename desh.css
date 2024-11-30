@@ -1,0 +1,13 @@
+.card-title
+{
+    text-align: left;
+}
+.col
+{
+    width: 25%;
+}
+.card-text
+{
+    text-align: left;
+    padding-top: 5px;
+}

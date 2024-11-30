@@ -1,0 +1,26 @@
+.card1
+    {
+        box-shadow: 0 4px 8px 0 rgba(56, 54, 54, 0.961);
+        transition: 0.3s;
+        width: 100%;
+        border-radius: 5px;
+       /* padding-left: 20%;
+        margin-left: 20%;*/
+    }
+    .card1:hover
+    {
+        box-shadow: 0 8px 16px 0 rgba(18, 202, 190, 0.824);
+    }
+    img
+    {
+        border-radius: 5px 5px 0 0;
+    }
+    .container1 
+    {
+        padding: 12px 16px;
+    }
+    tr:hover
+    {
+        background-color: rgb(242, 247, 170);
+        cursor: pointer;
+    }
